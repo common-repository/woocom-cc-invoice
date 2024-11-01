@@ -1,0 +1,24 @@
+{
+  "name": "rnaby/woocom-cc-invoice",
+  "description": "Helps user to send CC of the invoice to other third party email addresses.",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "license": "GPL-2.0",
+  "type": "wordpress-plugin",
+  "authors": [
+    {
+      "name": "Khan M Rashedun-Naby",
+      "email": "naby88@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+  },
+  "require-dev": {
+  },
+  "autoload": {
+    "psr-4": {
+      "TheDramatist\\WooComCCInvoice\\": "src/"
+    }
+  }
+}

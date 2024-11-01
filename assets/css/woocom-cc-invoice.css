@@ -1,0 +1,12 @@
+.wci_wrap #wci_form_opts label,
+.wci_wrap #wci_form_opts input,
+.wci_wrap #wci_message_opts label,
+.wci_wrap #wci_message_opts input {
+	float: left;
+	clear: left;
+}
+
+.wci_wrap input[type=text] {
+	margin-bottom: 10px;
+	width: 100%;
+}

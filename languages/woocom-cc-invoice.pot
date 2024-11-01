@@ -1,0 +1,200 @@
+# Copyright (C) 2017 WooCom CC Invoice
+# This file is distributed under the same license as the WooCom CC Invoice package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCom CC Invoice dev-master\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/woocom-cc-"
+"invoice\n"
+"POT-Creation-Date: 2017-10-10 17:11:55+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: src/Admin/Admin.php:42 src/Admin/Admin.php:183
+msgid "Share Your Invoice"
+msgstr ""
+
+#: src/Admin/Admin.php:46 src/Admin/Admin.php:187
+msgid "Enter an email address to share your invoice."
+msgstr ""
+
+#: src/Admin/Admin.php:50 src/Admin/Admin.php:191
+msgid "Share Invoice"
+msgstr ""
+
+#: src/Admin/Admin.php:51 src/Admin/Admin.php:195
+msgid "Enter Email"
+msgstr ""
+
+#: src/Admin/Admin.php:52 src/Admin/Admin.php:279
+msgid "Success! Your invoice has been sent, send another?"
+msgstr ""
+
+#: src/Admin/Admin.php:56 src/Admin/Admin.php:283
+msgid "Invalid email address, please try again."
+msgstr ""
+
+#: src/Admin/Admin.php:60 src/Admin/Admin.php:287
+msgid "Invalid order number, please refresh and try again."
+msgstr ""
+
+#: src/Admin/Admin.php:64
+msgid "Invalid account, please make sure you are logged in and try again."
+msgstr ""
+
+#: src/Admin/Admin.php:68 src/Admin/Admin.php:295
+msgid "Something went wrong, please refresh the page and try again."
+msgstr ""
+
+#: src/Admin/Admin.php:82 src/Admin/Admin.php:83
+msgid "Invoice Sharing"
+msgstr ""
+
+#: src/Admin/Admin.php:102
+msgid "Invoice Sharing Settings"
+msgstr ""
+
+#: src/Admin/Admin.php:207
+msgid "Form Title"
+msgstr ""
+
+#: src/Admin/Admin.php:221
+msgid "Help Message"
+msgstr ""
+
+#: src/Admin/Admin.php:235
+msgid "Button Text"
+msgstr ""
+
+#: src/Admin/Admin.php:250
+msgid "Input Placeholder"
+msgstr ""
+
+#: src/Admin/Admin.php:291
+msgid ""
+"Invalid account, please make sure you are logged in and try again\n"
+"\t\t\t\t"
+msgstr ""
+
+#: src/Admin/Admin.php:306
+msgid "Success Message"
+msgstr ""
+
+#: src/Admin/Admin.php:320
+msgid "Invalid Email Message"
+msgstr ""
+
+#: src/Admin/Admin.php:334
+msgid "Invalid Order Message"
+msgstr ""
+
+#: src/Admin/Admin.php:347
+msgid "Invalid Account Message"
+msgstr ""
+
+#: src/Admin/Admin.php:360
+msgid "Default Error Message"
+msgstr ""
+
+#: src/Admin/Admin.php:406
+msgid "Display on Order Received Page"
+msgstr ""
+
+#: src/Admin/Admin.php:424
+msgid ""
+"Top of Order Received Page? (Unchecked will display the form at the bottom)"
+msgstr ""
+
+#: src/Admin/Admin.php:443
+msgid "Display on View Order Page"
+msgstr ""
+
+#: src/Email/Email.php:21
+msgid "Customer invoice"
+msgstr ""
+
+#: src/Email/Email.php:22
+msgid ""
+"Customer invoice emails can be sent\n"
+"\t\t\tto the user containing order info and payment links."
+msgstr ""
+
+#: src/Email/Email.php:31
+msgid "Invoice for order {order_number} from {order_date}"
+msgstr ""
+
+#: src/Email/Email.php:36
+msgid "Invoice for order {order_number}"
+msgstr ""
+
+#: src/Email/Email.php:41
+msgid "Your {site_title} order from {order_date}"
+msgstr ""
+
+#: src/Email/Email.php:45
+msgid "Order {order_number} details"
+msgstr ""
+
+#: src/Email/Email.php:205
+msgid "Email subject"
+msgstr ""
+
+#: src/Email/Email.php:208 src/Email/Email.php:218 src/Email/Email.php:231
+#: src/Email/Email.php:244
+msgid "Defaults to <code>%s</code>"
+msgstr ""
+
+#: src/Email/Email.php:215
+msgid "Email heading"
+msgstr ""
+
+#: src/Email/Email.php:225
+msgid "Email subject (paid)"
+msgstr ""
+
+#: src/Email/Email.php:238
+msgid "Email heading (paid)"
+msgstr ""
+
+#: src/Email/Email.php:251
+msgid "Email type"
+msgstr ""
+
+#: src/Email/Email.php:253
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: src/Email/Email.php:260
+msgid "Plain text"
+msgstr ""
+
+#: src/Email/Email.php:261
+msgid "HTML"
+msgstr ""
+
+#: src/Email/Email.php:262
+msgid "Multipart"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "WooCom CC Invoice"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/rnaby"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Helps user to send CC of the invoice to other third party email"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "TheDramatist"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://rnaby.github.com/"
+msgstr ""
